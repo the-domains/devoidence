@@ -1,0 +1,28 @@
+name: Devoidence
+favicon: null
+layout_spectrum: 0.9823821142781526
+typography_spectrum: 0.33864013385027647
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9189232278149575
+  lightness: 0.1269116848707199
+  saturation: 0.3923057650681585
+  rhythmicContrast: 0.26642475672997534
+purpose: []
